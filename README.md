@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DennisTrujilloDev
 - 👀 I’m interested in geopolitics, the future of artificial intelligence, maps, and skylines (favorites: Shanghai & NYC!). 
-- 🌱 I’m currently learning Javascript (LOVIN' it — was a total algebra nerd in high school) and the study methods that work best for me. Additionally, I am always looking to improve my French-language and yoga skills. 
+- 🌱 I’m currently learning Javascript (& LOVIN' it — was a total algebra nerd in high school) and the study methods that work best for me. Additionally, I am always working on my French-language and yoga skills. 
 - Interesting facts about me: I practiced Capoeira — a Brazilian martial art disguised as a dance — for several years, and have lived in four of the seven continents that make up our beautiful world. 
 - My hobbies include: swimming and snorkeling, biking, practicing (spoken & programming) languages. 
 - 💞️ I’m looking to collaborate on open source projects. Any suggestions? 
