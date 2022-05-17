@@ -8,7 +8,7 @@
 
 Welcome to @DennisTrujilloDev 's GitHub — it's a pleasure to have you 👋 <br>
 
-I’m Dennis { <br>
+I’m Dennis { 
 		Position:   <strong>'Full-stack Software Engineer'</strong> <br>
 		Interests:   'The future of artificial intelligence, geopolitics, and skylines (favorites: Shanghai & NYC!)' <br>
 		Currently:   'A full-time Javascript nerd with a sprinkle of morning yoga' <br>
@@ -19,7 +19,13 @@ I’m Dennis { <br>
    			'Twitter (https://twitter.com/DennisJoelTruj2)',<br>
    			'LinkedIn (https://www.linkedin.com/in/dennis-trujillo/)',<br>
    			]<br>
-}<br>
+		Hobbies(){ <br>
+		Practicing programming & human languages, scuba diving, and motorbiking<br>
+		}<br>
+		fun_fact(){<br>
+		I have lived in four of the seven continents that constitute our beautiful world!<br>
+		}<br>
+}
 
 
 <!--    future ambitions():
