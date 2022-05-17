@@ -6,20 +6,20 @@
 - 💞️ I’m looking to collaborate on open source projects. Any suggestions? 
 - 📫 How to reach me: Email (dennis.joel.trujillo@gmail.com), Twitter (https://twitter.com/DennisJoelTruj2), or LinkedIn (https://www.linkedin.com/in/dennis-trujillo/) -->
 
-Welcome to @DennisTrujilloDev 's GitHub — it's a pleasure to have you 👋 
+Welcome to @DennisTrujilloDev 's GitHub — it's a pleasure to have you 👋 <br>
 
-I’m Dennis {
-   Position: 'Full-stack Software Engineer'
-   Interests: 'The future of artificial intelligence, geopolitics, and skylines (favorites: Shanghai & NYC!)'
-   Currently: 'A full-time Javascript nerd with a sprinkle of morning yoga'
-   Hobbies: 'Practicing programming & human languages, scuba diving, and motorbiking'
-   fun_fact: 'I have lived in four of the seven continents that constitute our beautiful world!'
-   contact_me: [
-   			'Email (dennis.joel.trujillo@gmail.com)',
-        'Twitter (https://twitter.com/DennisJoelTruj2)',
-   		 	'LinkedIn (https://www.linkedin.com/in/dennis-trujillo/)',
-   		]
-}
+I’m Dennis { <br>
+		Position:   <strong>'Full-stack Software Engineer'</strong> <br>
+		Interests:   'The future of artificial intelligence, geopolitics, and skylines (favorites: Shanghai & NYC!)' <br>
+		Currently:   'A full-time Javascript nerd with a sprinkle of morning yoga' <br>
+		Hobbies:   'Practicing programming & human languages, scuba diving, and motorbiking' <br>
+		fun_fact:   'I have lived in four of the seven continents that constitute our beautiful world!' <br>
+		contact: [ <br>
+   			'Email (dennis.joel.trujillo@gmail.com)',<br>
+   			'Twitter (https://twitter.com/DennisJoelTruj2)',<br>
+   			'LinkedIn (https://www.linkedin.com/in/dennis-trujillo/)',<br>
+   			]<br>
+}<br>
 
 
 <!--    future ambitions():
