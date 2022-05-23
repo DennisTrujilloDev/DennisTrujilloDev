@@ -6,6 +6,9 @@
 - 💞️ I’m looking to collaborate on open source projects. Any suggestions? 
 - 📫 How to reach me: Email (dennis.joel.trujillo@gmail.com), Twitter (https://twitter.com/DennisJoelTruj2), or LinkedIn (https://www.linkedin.com/in/dennis-trujillo/) -->
 
+![GHBanner](https://user-images.githubusercontent.com/98935149/169903526-2c6150d6-81b4-43ba-8699-4cde93bf0307.png)
+
+
 Welcome to @DennisTrujilloDev 's GitHub — it's a pleasure to have you 👋 <br>
 
 I’m Dennis {<br>
