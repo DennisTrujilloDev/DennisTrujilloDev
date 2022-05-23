@@ -11,6 +11,27 @@
 
 Welcome to my GitHub — it's a pleasure to have you 👋 <br>
 
+ ```python
+  class WhoAmI:
+    user = 'Jaydeep Yadav'
+	current_edu = "CSIT"
+    currently_learning = "Javascript"
+    fun_fact = "I hate Chillies"
+	hobbies = [
+				'Music',
+                         'Chilling',
+			 	'Gaming',
+				'Sci-Fi Movies'
+			]
+	
+	def getCity():
+		return Chhattisgarh_India()
+	
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects()
+	
+ ```
 I’m Dennis {<br>
 		Position:   <strong>'A Full-stack Software Engineer'</strong> <br>
 		Currently:   'A Javascript nerd with a sprinkle of morning yoga' <br>
