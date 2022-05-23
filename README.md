@@ -9,45 +9,26 @@
 ![GHBanner](https://user-images.githubusercontent.com/98935149/169903526-2c6150d6-81b4-43ba-8699-4cde93bf0307.png)
 
 
-Welcome to my GitHub — it's a pleasure to have you 👋 <br>
+Welcome to my GitHub — it's a pleasure to have you 👋
 
  ```python
-  class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return Chhattisgarh_India()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
-	
- ```
-I’m Dennis {<br>
-		Position:   <strong>'A Full-stack Software Engineer'</strong> <br>
-		Currently:   'A Javascript nerd with a sprinkle of morning yoga' <br>
-		Interests:   'Artificial intelligence, geopolitics, skylines (favorites: Shanghai & NYC!)' <br>
-		Contact: [ <br>
-   			'Email (dennis.joel.trujillo@gmail.com)',<br>
-   			'Twitter (https://twitter.com/DennisJoelTruj2)',<br>
-   			'LinkedIn (https://www.linkedin.com/in/dennis-trujillo/)',<br>
-   			]<br>
-		Hobbies(){ <br>
-		Enhancing my programming & human languages, scuba diving, and motorbiking<br>
-		}<br>
-		fun_fact(){<br>
-		I have lived in four of the seven continents that constitute our beautiful world!<br>
-		}<br>
+I’m Dennis {
+		Position:    'A Full-stack Software Engineer'
+		Currently:   'A Javascript nerd with a sprinkle of morning yoga'
+		Interests:   'Artificial intelligence, geopolitics, skylines (favorites: Shanghai & NYC!)'
+		Contact: [ 
+   			'Email (dennis.joel.trujillo@gmail.com)',
+   			'Twitter (https://twitter.com/DennisJoelTruj2)',
+   			'LinkedIn (https://www.linkedin.com/in/dennis-trujillo/)',
+   			]
+		Hobbies(){ 
+		Enhancing my programming & human languages, scuba diving, and motorbiking
+		}
+		Fun_Fact(){
+		I have lived in four of the seven continents that constitute our beautiful world!
+		}
 }
+ ```
 
 
 <!--    future ambitions():
