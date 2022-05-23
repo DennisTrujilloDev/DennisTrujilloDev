@@ -9,7 +9,7 @@
 ![GHBanner](https://user-images.githubusercontent.com/98935149/169903526-2c6150d6-81b4-43ba-8699-4cde93bf0307.png)
 
 
-Welcome to @DennisTrujilloDev 's GitHub — it's a pleasure to have you 👋 <br>
+Welcome to my GitHub — it's a pleasure to have you 👋 <br>
 
 I’m Dennis {<br>
 		Position:   <strong>'A Full-stack Software Engineer'</strong> <br>
