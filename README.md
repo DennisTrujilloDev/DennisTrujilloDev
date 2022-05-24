@@ -16,15 +16,16 @@
 
  ```python
 Dennis {
-		Position: 'A Full-stack Software Engineer'
-		Currently: 'A Javascript nerd with a sprinkle of morning yoga'
-		Interests: 'Artificial intelligence, geopolitics, skylines (favorites: Shanghai & NYC!)'
-		Hobbies(){ 
-		'Enhancing my programming & human language skills, scuba diving, and motorbiking'
-		}
-		Fun_Fact(){
-		'I have lived in four of the seven continents that constitute our beautiful world!'
-		}
+	Position: 'A Full-stack Software Engineer'
+	Currently: 'A Javascript nerd with a sprinkle of morning yoga'
+	Location: 'Boston, MA, USA' 	
+	Interests: 'Artificial intelligence, geopolitics, skylines (favorites: Shanghai & NYC!)'
+	Hobbies(){ 
+	   'Enhancing my programming & human language skills, scuba diving, and motorbiking'
+	}
+	Fun_Fact(){
+	   'I have lived in four of the seven continents that constitute our beautiful world!'
+	}
 }
  ```
 ## Skills 💻
