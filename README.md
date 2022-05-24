@@ -5,14 +5,19 @@
 - My hobbies include: swimming and snorkeling, biking, practicing (spoken & programming) languages. 
 - 💞️ I’m looking to collaborate on open source projects. Any suggestions? 
 - 📫 How to reach me: Email (dennis.joel.trujillo@gmail.com), Twitter (https://twitter.com/DennisJoelTruj2), or LinkedIn (https://www.linkedin.com/in/dennis-trujillo/) -->
+<!-- 
+![GHBanner](https://user-images.githubusercontent.com/98935149/169903526-2c6150d6-81b4-43ba-8699-4cde93bf0307.png) -->
 
-![GHBanner](https://user-images.githubusercontent.com/98935149/169903526-2c6150d6-81b4-43ba-8699-4cde93bf0307.png)
+
+
+<p align="center">
+
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 
-<p align="center">
-  <a align="center" href="#"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+profile—;it's+a+pleasure+to+have+you!;" /></a>
-</p>
 
  ```python
 Dennis {
@@ -28,6 +33,11 @@ Dennis {
 	}
 }
  ```
+ 
+ <p align="center">
+  <a align="center" href="#"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Hi!+I'm+Dennis,+a+software+engineer.;Welcome+to+my+GitHub+profile!;" /></a>
+</p>
+ 
 ## Skills 💻
 
 <table align="center">
@@ -64,11 +74,7 @@ Dennis {
 
 
 
-<p align="center">
-
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-  
-</p>
+![metiseko](https://user-images.githubusercontent.com/98935149/170122997-9be4fd8d-fdd2-4209-8df8-1077bc28750f.jpg)
 
 
 
