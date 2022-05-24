@@ -8,16 +8,16 @@
 <!-- 
 ![GHBanner](https://user-images.githubusercontent.com/98935149/169903526-2c6150d6-81b4-43ba-8699-4cde93bf0307.png) -->
 
-
-
-<p align="center">
-
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-  
+ <p align="center">
+  <a align="center" href="#"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Hi!+I'm+Dennis,+a+software+engineer.;Welcome+to+my+GitHub+profile!;" /></a>
 </p>
+
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 
+ <p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</p>
 
  ```python
 Dennis {
@@ -34,9 +34,8 @@ Dennis {
 }
  ```
  
- <p align="center">
-  <a align="center" href="#"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Hi!+I'm+Dennis,+a+software+engineer.;Welcome+to+my+GitHub+profile!;" /></a>
-</p>
+
+ 
  
 ## Skills 💻
 
