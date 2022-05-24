@@ -8,9 +8,10 @@
 
 ![GHBanner](https://user-images.githubusercontent.com/98935149/169903526-2c6150d6-81b4-43ba-8699-4cde93bf0307.png)
 
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile—;it's+a+pleasure+to+have+you!;" /></a>
+  <a align="center" href="#"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile—;it's+a+pleasure+to+have+you!;" /></a>
 </p>
 
  ```python
