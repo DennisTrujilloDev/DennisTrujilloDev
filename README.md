@@ -61,6 +61,17 @@ Dennis {
   <a href="https://twitter.com/DennisJoelTruj2"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   </p> 
 <!-- add portfolio, calendly -->
+
+
+
+<p align="center">
+
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
+
+
+
 <!-- 		Contact: [ 
    			'Email (dennis.joel.trujillo@gmail.com)',
    			'Twitter (https://twitter.com/DennisJoelTruj2)',
