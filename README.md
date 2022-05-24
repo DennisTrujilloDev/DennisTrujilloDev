@@ -12,8 +12,6 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile—;it's+a+pleasure+to+have+you!;" /></a>
 </p>
-##👋
-<!-- Welcome to my GitHub  it's a pleasure to have you 👋 -->
 
  ```python
 Dennis {
@@ -28,14 +26,38 @@ Dennis {
 		}
 }
  ```
+## Skills 💻
+
+<table>
+<tbody>
+
+<td align="center" width="25%">
+<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+ 
+<td align="center" width="25%">
+<img height=100px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
+</td>
+	
+<td align="center" width="25%">
+<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
+</td>
+
+<td align="center" width="25%">
+<img height=100px src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> 
+</td>
+
+</tbody>
+</table>
+ 
+ 
  ## Contact Me! 📫
   <p align="center">
   <a href="https://www.linkedin.com/in/dennis-trujillo/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- </p>
- <p align="center">
+<!--   </p> -->
+<!--   <p align="center"> -->
   <a href="mailto:dennis.joel.trujillo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://twitter.com/DennisJoelTruj2"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p> 
+  </p> 
 <!-- add portfolio, calendly -->
 <!-- 		Contact: [ 
    			'Email (dennis.joel.trujillo@gmail.com)',
