@@ -15,9 +15,9 @@
 
  ```python
 Dennis {
-		Position:    'A Full-stack Software Engineer'
-		Currently:   'A Javascript nerd with a sprinkle of morning yoga'
-		Interests:   'Artificial intelligence, geopolitics, skylines (favorites: Shanghai & NYC!)'
+		Position: 'A Full-stack Software Engineer'
+		Currently: 'A Javascript nerd with a sprinkle of morning yoga'
+		Interests: 'Artificial intelligence, geopolitics, skylines (favorites: Shanghai & NYC!)'
 		Hobbies(){ 
 		'Enhancing my programming & human language skills, scuba diving, and motorbiking'
 		}
@@ -28,21 +28,21 @@ Dennis {
  ```
 ## Skills 💻
 
-<table>
+<table align="center">
 <tbody>
-
-<td align="center" width="25%">
+<tr>
+<td align="center" width="35%">
 <img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
  
-<td align="center" width="25%">
+<td align="center" width="35%">
 <img height=100px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
 </td>
-	
-<td align="center" width="25%">
+</tr>	
+<td align="center" width="35%">
 <img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="35%">
 <img height=100px src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> 
 </td>
 
