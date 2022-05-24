@@ -9,18 +9,16 @@
 ![GHBanner](https://user-images.githubusercontent.com/98935149/169903526-2c6150d6-81b4-43ba-8699-4cde93bf0307.png)
 
 
-Welcome to my GitHub — it's a pleasure to have you 👋
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile—;it's+a+pleasure+to+have+you!;" /></a>
+</p>
+<!-- Welcome to my GitHub  it's a pleasure to have you 👋 -->
 
  ```python
 Dennis {
 		Position:    'A Full-stack Software Engineer'
 		Currently:   'A Javascript nerd with a sprinkle of morning yoga'
 		Interests:   'Artificial intelligence, geopolitics, skylines (favorites: Shanghai & NYC!)'
-		Contact: [ 
-   			'Email (dennis.joel.trujillo@gmail.com)',
-   			'Twitter (https://twitter.com/DennisJoelTruj2)',
-   			'LinkedIn (https://www.linkedin.com/in/dennis-trujillo/)',
-   			]
 		Hobbies(){ 
 		'Enhancing my programming & human language skills, scuba diving, and motorbiking'
 		}
@@ -29,7 +27,11 @@ Dennis {
 		}
 }
  ```
-
+<!-- 		Contact: [ 
+   			'Email (dennis.joel.trujillo@gmail.com)',
+   			'Twitter (https://twitter.com/DennisJoelTruj2)',
+   			'LinkedIn (https://www.linkedin.com/in/dennis-trujillo/)',
+   			] -->
 
 <!--    future ambitions():
     I will use my experience in education and software development 
