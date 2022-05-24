@@ -27,6 +27,15 @@ Dennis {
 		}
 }
  ```
+ 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/dennis-trujillo/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ </p>
+ <p align="center">
+  <a href="mailto:dennis.joel.trujillo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/DennisJoelTruj2"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p> 
+<!-- add portfolio, calendly -->
 <!-- 		Contact: [ 
    			'Email (dennis.joel.trujillo@gmail.com)',
    			'Twitter (https://twitter.com/DennisJoelTruj2)',
