@@ -43,7 +43,7 @@ Dennis {
  
 <!--  ## Contact Me! 📫 -->
 
- 
+ <br><br><br>
  
 <!-- ## Skills 💻 -->
 
@@ -69,7 +69,7 @@ Dennis {
 </table>
  
 
-
+ <br><br><br>
 
 ![metiseko](https://user-images.githubusercontent.com/98935149/170122997-9be4fd8d-fdd2-4209-8df8-1077bc28750f.jpg)
 
